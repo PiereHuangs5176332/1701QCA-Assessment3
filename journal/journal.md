@@ -157,6 +157,10 @@ With everything failing, I then though of maybe I can create something like an i
 ![Image](017.jpeg)
 As for the final, I got something to work, and it wasn't too bad, I had to stick the tip of the papers together so when it spins it doesn't expand and hit the microbits, and when it is sticked together, upon when it's spinning it kind of looks like an flower which is pretty cool. 
 
+After some feedback from the teachers, I have created some more spinning platforms with different patterns made with condensed foam.
+![Image](2.jpeg)
+![Image](3.jpeg)
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
