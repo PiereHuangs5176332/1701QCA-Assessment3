@@ -157,11 +157,11 @@ With everything failing, I then though of maybe I can create something like an i
 ![Image](017.jpeg)
 As for the final, I got something to work, and it wasn't too bad, I had to stick the tip of the papers together so when it spins it doesn't expand and hit the microbits, and when it is sticked together, upon when it's spinning it kind of looks like an flower which is pretty cool. 
 
-After some feedback from the teachers, I have created some more spinning platforms with different patterns made with condensed foam.
+After some feedback from the teachers, I have created some more spinning platforms with different patterns made with condensed foam. In an 1 on 1 conversation with my teacher on what I can do to make my project alot better, we talked about hypnotic swirl, and then I though how come I have never though of that before?? And after some research on the swirl, finding what presents best when "actually" spinning, I have came up with some final design, and recorded it functioning.
 ![Image](2.jpeg)
 ![Image](3.jpeg)
 
-Covering up the Microbit breadboard and motor in a simple and clean way, what i can think of the an plain sheet of paper, and the result of it looks pretty clean. 
+Covering up the Microbit breadboard and motor in a simple and clean way, what i can think of the an plain sheet of paper, and the result of it looks pretty clean. Before useing sheets of paper to cover the microvit up, I did consider to cover up the microbit with condensed foam, but condensed was not as flexable as sheets of paper and can't really provide and show the "simple" vide I Wwanted for the exterior of the cover, therfore I have used sheets of paper to cover the microbit up, and the results was great.
 ![Image](5.jpeg)
 ![Image](7.jpeg)
 ![Image](8.jpeg)
