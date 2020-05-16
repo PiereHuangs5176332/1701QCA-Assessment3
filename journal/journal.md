@@ -98,6 +98,13 @@ What experience I want the users to experience?
 
 An entertaining time while the users interact with the project and while interacting with the project they lose the track of time. With most of the people staying home now, I see the users using this project to kill their time for time to go faster and to be entertained.
 
+My final concept was actually: an slide of different colors that just keep sliding in a circle, where you can look at it for ages and do nothing. But unfortunally this concept also ended as a failure, as trying to use the same concept with the related project 1 "forever 21" I have used toilet rolles (as they are the lightest and most stable material i can find) to create a scroll for color papers to spin on, but after connecting with the motor, the motor couldn't create enough force to spin the scroll, and after changing the materialls to think sticks (wood) it was still to heavy for the motor to spin, in my final attempt i have tried using paper to scroll them into a scroll, but the results were the same, and my concept ended in a failure so I had to came up with something different. 
+
+Due to the failure in the making process in Assessment 2, I have/had to changed my final concept into a spinning platform, but even after changing the concept, I still came across alot of problems but I end up solving them, and they will be documented in the "process documentation" section below to show the process.
+
+What I came up with in the end was an spinning platform made from condensed foam witch is really light, and the motor was able to give it a good spin. This final prototype actually came from another failure concept that I have tried when everything was failing, and that was the display platform, it shares the same concept as the spinning platform, but with the display platform I need it to place something onto the platform for it to "display" but when I try to display something on to it, the condensed foam breaks as it it too light to be haveing pressure on it, there for I have to come up with another idea/concept again.
+
+
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
