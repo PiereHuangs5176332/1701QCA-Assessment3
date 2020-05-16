@@ -161,6 +161,14 @@ After some feedback from the teachers, I have created some more spinning platfor
 ![Image](2.jpeg)
 ![Image](3.jpeg)
 
+Covering up the Microbit breadboard and motor in a simple and clean way, what i can think of the an plain sheet of paper, and the result of it looks pretty clean. 
+![Image](5.jpeg)
+![Image](7.jpeg)
+![Image](8.jpeg)
+This is what it looks like with an platform on of the project.
+
+For the end, I want to explain how the device will be turned on, the project would have a long cord which is like a charger line, and between the cord will have an on and off switch like and desk light, where after the user place their own designed platform onto the motor, they would switch it on for the motor to spin and off for the motor to stop, the whole project will be connected to the cord where the cord will be connect to the power point, as the users can turn the project freely on and off as they wanted. 
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
