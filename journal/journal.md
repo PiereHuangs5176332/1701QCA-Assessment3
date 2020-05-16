@@ -1,11 +1,67 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Piere Huang s5176332*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
 <!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
 
 ## Related projects ##
-<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
+<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. ---> 
+### Related project 1 ###
+*Forever 21 Thread Screen*
+
+*https://www.youtube.com/watch?v=dvDHNDkO-Qo&list=PL12khZdzeRtoa8XrdM8bo_OIkioB6ffU3&index=33&t=16s*
+
+![Image](124.png)
+
+This project is related to mine because they have used some kind of "motor" to keep the colors changing and spinning, where in my project, I have also used a motor, and in one of my very first attempt of my project I though of the same conecpt where i have a big scroll that changes color as well.
+
+### Related project 2 ###
+*Shack motor toy*
+
+*https://www.youtube.com/watch?v=FZdWRTowAf8&list=PL12khZdzeRtoa8XrdM8bo_OIkioB6ffU3&index=34&t=6s*
+
+![Image](125.png)
+
+This project is related to mine because they have also used motor in their project, where they use the motor to shake the bottle which while the bottle is shaking the bottle moves from its initial position, we kind of share to same concept on motors and this is also one of the project people can play for a long time and spend time watching it while doing nothing which is what I am looking for for my project.
+
+### Related project 3 ###
+*Kinetic Wall: Arduino Spiral Wall*
+
+*https://www.youtube.com/watch?v=RiGKk-7Hwhg*
+
+![Image](126.png)
+
+This project is related to mine because they have also used motor in their project, in this project, they use the motor connected with lines to make amazing art, and the visual is really great while the lines tangle into each other and changes shape. As the lines rotate into one direction it shrinks and in other direction is expands which creats amazing visual interaction with the audiences. 
+
+### Related project 4 ###
+*Kinetic Origami with Arduino Servo Sketch*
+
+*https://www.youtube.com/watch?v=AXsCaOo4FBI*
+
+![Image](127.png)
+
+This project is related to mine because they use a thing called "Arduino Servo Sketch" where it kind of works like an motor, and in this project it was connected with a line where the line is connected to the origami, and as the motor spins, the origami expands and shrinks which creats an amazing visual effect for viewers. 
+
+
+### Related project 5 ###
+*Carousel*
+
+*https://www.lemaxcollection.com/villages/caddington/sights-and-sounds/the-grand-carousel-84349*
+
+![Image](128.png)
+
+An carousel is related to my project is becasue it is controlled by an giant motor for it to spin, and in my final version of my project after many different attempts, I have came up with something similar to an carousel. Where in my project the motor controls my platform to spin, I believe that my project shares the same concept with the carousel.
+
+### Related project 6 ###
+*Baby-Burping Robot*
+
+*https://www.youtube.com/watch?v=7zb5gKw6q3o*
+
+![Image](129.png)
+
+This project is related to mine because what they have created is fun, not useful and really entertaining, where it is what I really am aiming for in my project, but also I think that they have used an motor for the robot to spin in a high speed, after all this project is like my final design fantasy where it has all the elements I am looking for in an project.
+
+
 
 ### *Insert name of related project here* ###
 
