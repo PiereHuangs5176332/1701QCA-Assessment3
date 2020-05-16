@@ -13,7 +13,7 @@ The image should be inserted with code like that below where you replace the fil
 
 ![Image](missingimage.png)
 
-<!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
+<!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. ---> This project is made during a special time period, 2020 Covid-19 outbreak time period, due to the out break of the virus, people are forced to stay home for most of their time and to do school and work in their own space, as one of the many people that was affected by the virus, the project is for people who is staying home for a long period of time and finding it boring, the project interactes with the user by user can create whatever pattern or image they want on a circle platform to spin, for example like an "hypnotic swirl", where the user can just have fun and look at it as time flies by.
 
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
