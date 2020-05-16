@@ -61,22 +61,8 @@ An carousel is related to my project is becasue it is controlled by an giant mot
 
 This project is related to mine because what they have created is fun, not useful and really entertaining, where it is what I really am aiming for in my project, but also I think that they have used an motor for the robot to spin in a high speed, after all this project is like my final design fantasy where it has all the elements I am looking for in an project.
 
-
-
-### *Insert name of related project here* ###
-
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
-
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
-
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. ---> 
 
 ## Conceptual development ##
 
