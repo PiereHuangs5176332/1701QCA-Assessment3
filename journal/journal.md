@@ -122,6 +122,40 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+Since I have failed many times with my concept, I will be sharing the failure concepts process with the only concept that was a success compare to the other concepts. Starting with the coding experiemtns with the motor, i ahve tried different motor power/spin power, and I have found out that higher the number is the more power the motore provides and that goes for the opposite as well, but after all the motor couldn't provide enough power for my other concepts. 
+![Image](11.png)
+![Image](12.png)
+![Image](13.png)
+![Image](14.png)
+![Image](15.png)
+![Image](16.png)
+
+Within all the coding experiments, I have also tried to make the motor spin in the opposite direction by using code, but it resulted in a failure.
+
+![Image](001.jpeg)
+Starting off everything with the experiment 4 in the inventor's kit to trial with the motor.
+![Image](002.jpeg)
+![Image](003.jpeg)
+Attemp of trying to connect the tolite rolles with the motor which ened in success at the start with only 1 section connected as it wasn't weighting much at the start, but when the whole scroll was completed, it was to heavy for the motor to handle, in result i wasn't spinning. 
+![Image](004.jpeg)
+![Image](005.jpeg)
+![Image](006.jpeg)
+![Image](007.jpeg)
+![Image](008.jpeg)
+![Image](009.jpeg)
+At the start when the motor wasn't spinning, I though that it was becasue the motor had no support on it's base, so I created a base for the motor using a shoe box which it was holding the motor tight and proving some mass holding the motor. 
+![Image](010.jpeg)
+![Image](011.jpeg)
+After the failure with the tolite scroll, I have switched it to thin wood sticks.
+![Image](012.jpeg)
+![Image](013.jpeg)
+Using the paper and scrolling them into a pole like center, I then connected to the think wood sticks, but it was too heavy for the motor, as I pull of the pole like paper, the motor started spinning again, in result I have to give up on this idea.
+![Image](014.jpeg)
+![Image](015.jpeg)
+With everything failing, I then though of maybe I can create something like an item displayer, so I  have created an spinning platform with condensed foam which was finally light enough for the motor to spin it, but for this item displayer, I needed the motor to spin the platform with a line connecting the platform and the motor within the gap in the platform, but the line had no friction for the motor to spin it, so I changed the line into rubber bands, but when switching to rubber bands, the motor again don't have enough force to spin the rubberband as it creates too much friction, so I had to think of an different idea again. 
+![Image](016.jpeg)
+![Image](017.jpeg)
+As for the final, I got something to work, and it wasn't too bad, I had to stick the tip of the papers together so when it spins it doesn't expand and hit the microbits, and when it is sticked together, upon when it's spinning it kind of looks like an flower which is pretty cool. 
 
 ## Final code ##
 
