@@ -88,7 +88,15 @@ An on/off switch that switches it self off like the "useless box" or shares the 
 After some attempt: After a few attempts with this concept, I have failed with creating an on/off switch for the project, and the line puller didnt work out as i expected where I tried to use the motor as an line puller but there was no switch for the motor to pull, and the other issue i have came accross was that the motor only spins in one direction, for it to change direction i would have to switch the lines connecting the motor around, in result of that this concept ended inan failure.
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. ---> A machine/device that you can just play with and have fun with it like the "useless box", an machine/device that has no other use than just entertainment really.
+
+What problem do you want to solve?
+
+With everything moving on the online now, we stay indoors a lot longer, and I in person feel bored most of the time, and hard to find something to do, being bored is an issue as time tends do feel going slower and longer, specially with the virus going on around the world, it is important for us to stay indoors which makes it more important to solve the "bored" issue so people stay indoors more.
+
+What experience I want the users to experience?
+
+An entertaining time while the users interact with the project and while interacting with the project they lose the track of time. With most of the people staying home now, I see the users using this project to kill their time for time to go faster and to be entertained.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
