@@ -63,14 +63,29 @@ This project is related to mine because what they have created is fun, not usefu
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. ---> 
+*I have also gone through experiment 4 from the inventor's kit to get a better understanding of how the motor works, the coding and how to connect it with the microbits.
+Searching up different kind of hyponic siwrl online to have a knoweledge of different kinds of swirl and which would work best actually "spinning" and coming up with an final outcome to put into the project.
+Done some researches on "motor" related project that could help my project in process, and most of them are the "related projects" shown on top*
 
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+<!--- Include your design intent here. It should be about a 10 word phrase/sentence. ---> *An machine/device that has no other use than just entertainment really*
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. ---> ### Design concept 1 ###
+A car kind of toy that will move away from users once it is turned on. So the idea of this concept is to create a car toy that will keep moving away from the user once it is turned on, and you will never know which way it will be going the next second, therefore the toy car will be incredibly hard to catch.
+
+![Image](2.png)
+
+After some attempt: After a few attempts on trying to complete this concept, I have failed in creating an motor based toy car, and also that the motor was not able to create enough power to carry the whole breadboard and microbit for an paper made car to move, therefore this concept ended in a failure.
+
+### Design concept 2 ###
+An on/off switch that switches it self off like the "useless box" or shares the same concept, just a thing that keeps the users entertained.
+
+![Image](WechatIMG278.jpeg)
+
+After some attempt: After a few attempts with this concept, I have failed with creating an on/off switch for the project, and the line puller didnt work out as i expected where I tried to use the motor as an line puller but there was no switch for the motor to pull, and the other issue i have came accross was that the motor only spins in one direction, for it to change direction i would have to switch the lines connecting the motor around, in result of that this concept ended inan failure.
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
