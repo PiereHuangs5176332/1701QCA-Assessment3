@@ -177,7 +177,12 @@ This is the final coding, as it looks simple but is all the project needed, afte
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+![Image](dimond.jpeg)
+The process of this whole project was kind of a disaster, as my concepts keeps failing, half way of making this project I was feeling really down on how everything was not working and I couldn't find a solution to solve the problems I have encounter, but I guess never giving up brings some good news that the end that finally I got something working, and all that is left is too make it more good looking and better functional as it is only a prototype. Finally with something working now, all I need to focus now is how can I make this a better project. There were definitly something that I could have done different that could change the result of many things, more consultation with my tutors would have helped alot while everything wasn't working for me, will defninitly keep that in mind and will engage with the tutors more in the future.
 
+After getting some feedback from the teacher and further research done for the project after Assessment2, the project has finally came to its final stage, I would like to talk about the big difference of the project I had in Assessment 2 and Assessment 3, so in the previous assessment, the project I created dont really have much "interaction" with the user as the user would just "look at it", but in my final project, I would say there is more "interaction" with the user, as I created different pattern platforms and a idea came throuhg me as the users can create different pattern platforms that they would like, and an on/off switch which is added as a desk light cord, with these new elements added into the project, yhe project is now in its' final stage. 
+
+The project now have reached my expectations on "time killing" where during the making process and testing process, I in person actually looked at the spinning platform spin for about a whole 7 minutes, as 7 minutes might not sound long, but if i was to sit or stand and do nothing for a whole 7 minutes, I would not feel great and fun, and as more platform pattern could be added, more time could be killed etc. After all I am happy with the outcome of the project after all the research, work, trial & error and experiment done. 
 
 ## Reflection ##
 
