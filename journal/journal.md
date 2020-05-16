@@ -172,7 +172,7 @@ For the end, I want to explain how the device will be turned on, the project wou
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-![Image](0.jpeg)
+![Image](0.png)
 This is the final coding, as it looks simple but is all the project needed, after having more look, research and experiment, I have removed the "forever" block as it was not needed, and left with this final code.
 
 ## Design process discussion ##
