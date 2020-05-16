@@ -11,7 +11,7 @@
 The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up. Note that .png is different to .PNG in a filename here. The names are case sensitive.
 --->
 
-![Image](1.jpeg)
+![Image](4.jpeg)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. ---> This project is made during a special time period, 2020 Covid-19 outbreak time period, due to the out break of the virus, people are forced to stay home for most of their time and to do school and work in their own space, as one of the many people that was affected by the virus, the project is for people who is staying home for a long period of time and finding it boring, the project interactes with the user by user can create whatever pattern or image they want on a circle platform to spin, for example like an "hypnotic swirl", where the user can just have fun and look at it as time flies by.
 
